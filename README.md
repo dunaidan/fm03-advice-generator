@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Advice Generator](https://fm03-advice-generator.vercel.app/)
 
 ## My process
 
